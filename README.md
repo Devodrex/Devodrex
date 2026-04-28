@@ -1,10 +1,41 @@
-👋 Hi, I'm Aditya Kumar Singh
+<!-- 🔥 PROFILE BANNER -->
 
-🚀 
-💻 Full Stack Developer crafting scalable web applications with MERN & Java
-🤖 AI/ML enthusiast turning data into intelligent solutions using Python
-⚡ Bridging backend systems with smart models to build real-world impact
-📈 Focused on growth, consistency, and building projects that actually matter
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Aditya%20Kumar%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+---
+
+<!-- 👋 INTRO -->
+
+<h1 align="center"><b>Hi 👋, I'm Aditya Kumar Singh</b></h1>
+
+<!-- ⚡ TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Scalable+Web+Applications;Turning+Data+into+Intelligent+Systems;Focused+on+Growth+%26+Real+Impact"/>
+</p>
+
+---
+
+<!-- 💡 ABOUT -->
+
+<ul style="font-size:16px; line-height:1.8;">
+  <li><b>💻 Full Stack Developer</b> crafting scalable web applications using MERN & Java</li>
+  <li><b>🤖 AI/ML Enthusiast</b> turning data into intelligent solutions with Python</li>
+  <li><b>⚡ System Builder</b> bridging backend systems with smart AI models</li>
+  <li><b>📈 Growth Mindset</b> focused on consistency, learning, and real-world impact</li>
+</ul>
+
+---
+
+<!-- 🚀 QUICK BADGES -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devodrex&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Devodrex?label=Followers&style=social" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/addy60456) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityakumarsi0107@gmail.com) 
