@@ -93,23 +93,23 @@ class AdityaKumarSingh:
 
 # ```NEURAL.NETWORK.STATUS```
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Devodrex&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Devodrex&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
-</p>
+</div>
 
 ---
 
 # ```LANGUAGE.MATRIX```
 
-<p align="center">
+<div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff"/>
 
-</p>
+</div>
 
 ---
 
