@@ -1,6 +1,6 @@
-<!-- =============================================== -->
-<!--            CYBERPUNK FUTURISTIC README          -->
-<!-- =============================================== -->
+<!-- ================================================= -->
+<!--              FUTURISTIC CYBER README              -->
+<!-- ================================================= -->
 
 <div align="center">
 
@@ -38,6 +38,7 @@
 class AdityaKumarSingh:
 
     def __init__(self):
+
         self.role = [
             "AI Engineer",
             "Full Stack Developer",
@@ -49,7 +50,7 @@ class AdityaKumarSingh:
             "Machine Learning",
             "Computer Vision",
             "Backend Systems",
-            "3D Web Development"
+            "3D Web Experiences"
         ]
 
         self.current_focus = [
@@ -59,8 +60,8 @@ class AdityaKumarSingh:
             "Real-time Detection Engines"
         ]
 
-    def build(self):
-        return "Creating futuristic digital experiences"
+    def mission(self):
+        return "Building futuristic intelligent systems"
 ```
 
 ---
@@ -81,10 +82,10 @@ class AdityaKumarSingh:
 
 | PROJECT | DESCRIPTION |
 |---|---|
-| 🤖 **AI CHATBOT** | Context-aware conversational AI platform |
-| 🚗 **POTHOLE DETECTION** | YOLOv8 + ByteTrack road anomaly system |
-| 🧠 **ALZHEIMER'S MODEL** | ML healthcare prediction research |
-| 🌌 **3D PORTFOLIO** | Interactive futuristic web experience |
+| 🤖 AI CHATBOT | Context-aware conversational AI platform |
+| 🚗 POTHOLE DETECTION | YOLOv8 + ByteTrack anomaly detection |
+| 🧠 ALZHEIMER'S MODEL | Healthcare prediction ML system |
+| 🌌 3D PORTFOLIO | Futuristic immersive web experience |
 
 </div>
 
@@ -94,9 +95,9 @@ class AdityaKumarSingh:
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devodrex&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Devodrex&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 </p>
 
@@ -105,7 +106,9 @@ class AdityaKumarSingh:
 # ```LANGUAGE.MATRIX```
 
 <p align="center">
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
 </p>
 
 ---
@@ -125,8 +128,8 @@ Frontend:
   - React.js
   - TypeScript
   - Tailwind CSS
-  - GSAP
   - Three.js
+  - GSAP
 
 Backend:
   - Node.js
@@ -193,11 +196,11 @@ https://portfolio-tau-three-0csuk1f6pf.vercel.app/
 # ```MISSION.LOG```
 
 ```txt
-> Building intelligent systems
-> Engineering scalable applications
-> Exploring AI research
-> Designing futuristic interfaces
-> Constantly evolving
+> Building scalable AI systems
+> Engineering immersive interfaces
+> Solving real-world problems
+> Learning continuously
+> Creating futuristic experiences
 ```
 
 ---
@@ -214,6 +217,14 @@ https://portfolio-tau-three-0csuk1f6pf.vercel.app/
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=algolia&no-frame=true&margin-w=12"/>
+</p>
+
+---
+
+# ```VISITOR.COUNT```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devodrex&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
