@@ -1,72 +1,57 @@
-<!-- ================================================= -->
-<!--              FUTURISTIC CYBER README              -->
-<!-- ================================================= -->
+<!-- ================================================ -->
+<!--                CLEAN FUTURISTIC README           -->
+<!-- ================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ADITYA%20KUMAR%20SINGH&fontSize=45&color=0:0f0c29,50:302b63,100:24243e&stroke=00F7FF&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ffffff,50:e6e6e6,100:cccccc&text=ADITYA%20KUMAR%20SINGH&fontSize=42&fontColor=000000&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+FUTURISTIC+SYSTEMS;CREATING+IMMERSIVE+3D+EXPERIENCES;MACHINE+LEARNING+RESEARCHER"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Researcher;Building+Futuristic+Systems"/>
 
 <br/><br/>
 
 <a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
-  <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Devodrex">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/addy60456">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:adityakumarsi0107@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# ```SYSTEM.INIT()```
+# 👨‍💻 About Me
 
-```python
-class AdityaKumarSingh:
+```yaml
+Name: Aditya Kumar Singh
+Role: AI Engineer & Full Stack Developer
 
-    def __init__(self):
+Focus Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - Full Stack Development
+  - 3D Web Experiences
 
-        self.role = [
-            "AI Engineer",
-            "Full Stack Developer",
-            "ML Researcher"
-        ]
-
-        self.specialization = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Backend Systems",
-            "3D Web Experiences"
-        ]
-
-        self.current_focus = [
-            "AI Applications",
-            "Scalable Systems",
-            "Immersive User Experience",
-            "Real-time Detection Engines"
-        ]
-
-    def mission(self):
-        return "Building futuristic intelligent systems"
+Mission:
+  Building scalable and futuristic digital systems.
 ```
 
 ---
 
-# ```TECH.STACK```
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -76,92 +61,60 @@ class AdityaKumarSingh:
 
 ---
 
-# ```ACTIVE.PROJECTS```
+# 🚀 Featured Projects
 
-<div align="center">
-
-| PROJECT | DESCRIPTION |
+| Project | Description |
 |---|---|
-| 🤖 AI CHATBOT | Context-aware conversational AI platform |
-| 🚗 POTHOLE DETECTION | YOLOv8 + ByteTrack anomaly detection |
-| 🧠 ALZHEIMER'S MODEL | Healthcare prediction ML system |
-| 🌌 3D PORTFOLIO | Futuristic immersive web experience |
-
-</div>
+| 🤖 AI Chatbot | Context-aware conversational AI platform |
+| 🚗 Pothole Detection System | YOLOv8 + ByteTrack road anomaly detection |
+| 🧠 Alzheimer's Prediction Model | Healthcare ML prediction system |
+| 🌌 3D Portfolio | Interactive futuristic portfolio website |
 
 ---
 
-# ```NEURAL.NETWORK.STATUS```
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=default&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Devodrex&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Devodrex&theme=default&hide_border=true"/>
 
 </div>
 
 ---
 
-# ```PACMAN.EXE```
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=LOADING+PACMAN.EXE...;INITIALIZING+ARCADE+SYSTEM...;READY+TO+PLAY"/>
-
-<br/><br/>
-
-<img src="https://media.tenor.com/XM7T7m9JjLQAAAAd/pacman.gif" width="700"/>
-
-<br/><br/>
-
-```yaml
-ARCADE_SYSTEM:
-  STATUS: ONLINE
-  MODE: CLASSIC
-  GHOST_AI: ACTIVE
-  PLAYER: READY
-```
-
-<a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
-  <img src="https://img.shields.io/badge/PLAY_NOW-000000?style=for-the-badge&logo=arc&logoColor=FFD700"/>
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
 ---
 
-# ```SYSTEM.ARCHITECTURE```
+# ⚡ Activity Graph
 
-```yaml
-Frontend:
-  - React.js
-  - TypeScript
-  - Tailwind CSS
-  - Three.js
-  - GSAP
+<div align="center">
 
-Backend:
-  - Node.js
-  - Flask
-  - REST APIs
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devodrex&theme=github-light&hide_border=true"/>
 
-Artificial Intelligence:
-  - TensorFlow
-  - PyTorch
-  - OpenCV
-  - YOLOv8
-  - Scikit-learn
-
-Database:
-  - MongoDB
-  - PostgreSQL
-  - MySQL
-```
+</div>
 
 ---
 
-# ```DEPLOYMENT.SEQUENCE```
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=flat&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# ⚙️ Installation
 
 ## Clone Repository
 
@@ -169,7 +122,7 @@ Database:
 git clone https://github.com/Devodrex/Portfolio.git
 ```
 
-## Navigate Into Directory
+## Navigate Into Project
 
 ```bash
 cd Portfolio
@@ -181,7 +134,7 @@ cd Portfolio
 npm install
 ```
 
-## Launch Development Server
+## Run Development Server
 
 ```bash
 npm run dev
@@ -189,60 +142,18 @@ npm run dev
 
 ---
 
-# ```ACCESS.PORTFOLIO```
-
-<div align="center">
-
-### 🌐 LIVE EXPERIENCE
+# 🌐 Live Portfolio
 
 ```bash
 https://portfolio-tau-three-0csuk1f6pf.vercel.app/
 ```
 
-</div>
-
----
-
-# ```MISSION.LOG```
-
-```txt
-> Building scalable AI systems
-> Engineering immersive interfaces
-> Solving real-world problems
-> Learning continuously
-> Creating futuristic experiences
-```
-
----
-
-# ```REALTIME.ACTIVITY```
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devodrex&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-# ```ACHIEVEMENTS.UNLOCKED```
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=algolia&no-frame=true&margin-w=12"/>
-</p>
-
----
-
-# ```VISITOR.COUNT```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devodrex&style=for-the-badge&color=blueviolet"/>
-</p>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,100:cccccc"/>
 
-### ⚡ DESIGNED & ENGINEERED BY ADITYA KUMAR SINGH ⚡
+### Designed & Developed by Aditya Kumar Singh
 
 </div>
