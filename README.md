@@ -53,9 +53,71 @@ Mission:
 
 # 🛠 Tech Stack
 
+## 💻 Programming Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,nodejs,mongodb,mysql,postgres,tailwind,flask,java,cpp,git,github,vscode,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp"/>
+
+</div>
+
+---
+
+## 🌐 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css"/>
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask"/>
+
+</div>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black"/>
+<img src="https://img.shields.io/badge/YOLOv8-white?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+
+</div>
+
+---
+
+## 🗄 Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+</div>
+
+---
+
+## 🧰 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
 
 </div>
 
@@ -69,18 +131,6 @@ Mission:
 | 🚗 Pothole Detection System | YOLOv8 + ByteTrack road anomaly detection |
 | 🧠 Alzheimer's Prediction Model | Healthcare ML prediction system |
 | 🌌 3D Portfolio | Interactive futuristic portfolio website |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Devodrex&theme=default&hide_border=true"/>
-
-</div>
 
 ---
 
