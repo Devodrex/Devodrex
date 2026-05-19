@@ -12,6 +12,12 @@
 
 <br/><br/>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" />
+</p>
+
+<br/>
+
 <a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
