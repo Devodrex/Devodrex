@@ -1,226 +1,154 @@
-<!-- ===================================================== -->
-<!--                FUTURISTIC GITHUB README               -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F0FF,50:6C63FF,100:8A2BE2&text=Aditya%20Kumar%20Singh&fontSize=45&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20ML%20Researcher&descAlignY=58"/>
-</p>
-
----
-
-<h3 align="center">
-⚡ Building Intelligent Systems & Futuristic Digital Experiences ⚡
-</h3>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;3D+Web+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Technologies"/>
-</p>
-
----
-
-# 🧠 SYSTEM OVERVIEW
-
-```yaml
-Name: Aditya Kumar Singh
-Role: AI Engineer & Full Stack Developer
-
-Specialization:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Development
-  - Computer Vision
-  - 3D Web Experiences
-
-Currently Working On:
-  - AI Powered Applications
-  - Futuristic User Interfaces
-  - Real-time Detection Systems
-  - Intelligent Automation
-
-Mindset:
-  - Build
-  - Learn
-  - Improve
-  - Repeat
-```
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Devodrex">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/addy60456">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adityakumarsi0107@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 ABOUT ME
-
-💻 Full Stack Developer passionate about scalable applications and premium UI experiences.
-
-🤖 AI/ML Enthusiast building intelligent systems using modern machine learning frameworks.
-
-⚡ Focused on creating impactful real-world projects combining software engineering with artificial intelligence.
-
-🎯 Constantly improving in:
-- Backend Engineering
-- AI Systems
-- Advanced Frontend Development
-- Computer Vision
-- System Design
-
----
-
-# 🛠 TECH STACK
+<!-- =============================================== -->
+<!--            CYBERPUNK FUTURISTIC README          -->
+<!-- =============================================== -->
 
 <div align="center">
 
-## 💻 Languages
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ADITYA%20KUMAR%20SINGH&fontSize=45&color=0:0f0c29,50:302b63,100:24243e&stroke=00F7FF&fontColor=ffffff"/>
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+FUTURISTIC+SYSTEMS;CREATING+IMMERSIVE+3D+EXPERIENCES;MACHINE+LEARNING+RESEARCHER"/>
 
-## ⚙️ Frontend & Backend
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+<a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
+  <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+</a>
 
----
+<a href="https://github.com/Devodrex">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🤖 AI / Machine Learning
+<a href="https://www.linkedin.com/in/addy60456">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
-![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-
----
-
-## 🗄 Database & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
+<a href="mailto:adityakumarsi0107@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF006E"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# ```SYSTEM.INIT()```
 
-## 🤖 AI Chatbot Platform
+```python
+class AdityaKumarSingh:
 
-A context-aware AI conversational system capable of real-time responses with scalable backend architecture.
+    def __init__(self):
+        self.role = [
+            "AI Engineer",
+            "Full Stack Developer",
+            "ML Researcher"
+        ]
 
-### Features
-- Real-time messaging
-- Context retention
-- API integrations
-- Modern responsive UI
+        self.specialization = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Backend Systems",
+            "3D Web Development"
+        ]
 
----
+        self.current_focus = [
+            "AI Applications",
+            "Scalable Systems",
+            "Immersive User Experience",
+            "Real-time Detection Engines"
+        ]
 
-## 🚗 Pothole Detection System
-
-AI-powered road anomaly detection system using computer vision technologies.
-
-### Tech Used
-- YOLOv8
-- ByteTrack
-- OpenCV
-- Python
-
-### Capabilities
-- Real-time object tracking
-- Intelligent road analysis
-- Smart detection pipeline
-
----
-
-## 🧠 Alzheimer's Prediction Model
-
-Machine learning healthcare research project focused on predictive disease analysis.
-
-### Highlights
-- SVM-based prediction model
-- Data preprocessing pipeline
-- Predictive analytics
-- Research presentation at DoSCI-2025
+    def build(self):
+        return "Creating futuristic digital experiences"
+```
 
 ---
 
-# 🎮 PLAYABLE GAME
+# ```TECH.STACK```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,nodejs,mongodb,mysql,postgres,tailwind,flask,java,cpp,git,github,vscode,tensorflow,pytorch"/>
+
+</div>
+
+---
+
+# ```ACTIVE.PROJECTS```
+
+<div align="center">
+
+| PROJECT | DESCRIPTION |
+|---|---|
+| 🤖 **AI CHATBOT** | Context-aware conversational AI platform |
+| 🚗 **POTHOLE DETECTION** | YOLOv8 + ByteTrack road anomaly system |
+| 🧠 **ALZHEIMER'S MODEL** | ML healthcare prediction research |
+| 🌌 **3D PORTFOLIO** | Interactive futuristic web experience |
+
+</div>
+
+---
+
+# ```NEURAL.NETWORK.STATUS```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devodrex&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </p>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# ```LANGUAGE.MATRIX```
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devodrex&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# ```CONTRIBUTION.SNAKE()```
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# ⚡ CONTRIBUTION GRAPH
+# ```SYSTEM.ARCHITECTURE```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devodrex&theme=react-dark&hide_border=true"/>
-</p>
+```yaml
+Frontend:
+  - React.js
+  - TypeScript
+  - Tailwind CSS
+  - GSAP
+  - Three.js
+
+Backend:
+  - Node.js
+  - Flask
+  - REST APIs
+
+Artificial Intelligence:
+  - TensorFlow
+  - PyTorch
+  - OpenCV
+  - YOLOv8
+  - Scikit-learn
+
+Database:
+  - MongoDB
+  - PostgreSQL
+  - MySQL
+```
 
 ---
 
-# ⚙️ LOCAL INSTALLATION
+# ```DEPLOYMENT.SEQUENCE```
 
 ## Clone Repository
 
@@ -228,15 +156,11 @@ Machine learning healthcare research project focused on predictive disease analy
 git clone https://github.com/Devodrex/Portfolio.git
 ```
 
----
-
-## Navigate to Project
+## Navigate Into Directory
 
 ```bash
 cd Portfolio
 ```
-
----
 
 ## Install Dependencies
 
@@ -244,9 +168,7 @@ cd Portfolio
 npm install
 ```
 
----
-
-## Start Development Server
+## Launch Development Server
 
 ```bash
 npm run dev
@@ -254,38 +176,52 @@ npm run dev
 
 ---
 
-# 🌍 LIVE PORTFOLIO
+# ```ACCESS.PORTFOLIO```
+
+<div align="center">
+
+### 🌐 LIVE EXPERIENCE
 
 ```bash
 https://portfolio-tau-three-0csuk1f6pf.vercel.app/
 ```
 
----
-
-# 📈 CURRENT GOALS
-
-- Advanced AI Applications
-- Scalable Backend Systems
-- 3D Interactive Web Experiences
-- Open Source Contributions
-- Deep Learning Research
+</div>
 
 ---
 
-# 💭 DEVELOPER QUOTE
+# ```MISSION.LOG```
+
+```txt
+> Building intelligent systems
+> Engineering scalable applications
+> Exploring AI research
+> Designing futuristic interfaces
+> Constantly evolving
+```
+
+---
+
+# ```REALTIME.ACTIVITY```
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devodrex&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
+# ```ACHIEVEMENTS.UNLOCKED```
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devodrex&style=for-the-badge&color=blueviolet"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=algolia&no-frame=true&margin-w=12"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F0FF,50:6C63FF,100:8A2BE2"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+
+### ⚡ DESIGNED & ENGINEERED BY ADITYA KUMAR SINGH ⚡
+
+</div>
