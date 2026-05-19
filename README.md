@@ -103,21 +103,15 @@ class AdityaKumarSingh:
 
 ---
 
-# ```LANGUAGE.MATRIX```
+# ```TACTICAL.WAR.SIMULATOR()```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff"/>
+<a href="https://github.com/marketplace/actions/contribution-war">
+  <img src="https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/docs/demo.svg" width="100%"/>
+</a>
 
 </div>
-
----
-
-# ```CONTRIBUTION.SNAKE()```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
