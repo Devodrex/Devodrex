@@ -103,81 +103,29 @@ class AdityaKumarSingh:
 
 ---
 
-# ```TACTICAL.WAR.SIMULATOR()```
+# ```PACMAN.EXE```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=INITIALIZING+TACTICAL+WAR+SIMULATOR...;LOADING+NEURAL+BATTLEFIELD...;SYSTEM+ONLINE"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=LOADING+PACMAN.EXE...;INITIALIZING+ARCADE+SYSTEM...;READY+TO+PLAY"/>
 
 <br/><br/>
 
-```text
-🟥 ENEMY FORCES DETECTED...
-🟦 DEPLOYING AI DEFENSE SYSTEM...
-⚡ NEURAL STRIKE ACTIVATED...
-```
+<img src="https://media.tenor.com/XM7T7m9JjLQAAAAd/pacman.gif" width="700"/>
 
-<br/>
-
-<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="700" height="220" fill="#0d1117"/>
-
-  <!-- Grid -->
-  <g opacity="0.15">
-    <path d="M0 20H700M0 40H700M0 60H700M0 80H700M0 100H700M0 120H700M0 140H700M0 160H700M0 180H700M0 200H700" stroke="#00F7FF"/>
-    <path d="M20 0V220M40 0V220M60 0V220M80 0V220M100 0V220M120 0V220M140 0V220M160 0V220M180 0V220M200 0V220M220 0V220M240 0V220M260 0V220M280 0V220M300 0V220M320 0V220M340 0V220M360 0V220M380 0V220M400 0V220M420 0V220M440 0V220M460 0V220M480 0V220M500 0V220M520 0V220M540 0V220M560 0V220M580 0V220M600 0V220M620 0V220M640 0V220M660 0V220M680 0V220" stroke="#00F7FF"/>
-  </g>
-
-  <!-- Left Tank -->
-  <rect x="80" y="140" width="90" height="35" rx="6" fill="#00F7FF">
-    <animate attributeName="x" values="80;95;80" dur="2s" repeatCount="indefinite"/>
-  </rect>
-
-  <rect x="150" y="125" width="50" height="10" fill="#00F7FF">
-    <animate attributeName="x" values="150;165;150" dur="2s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Right Tank -->
-  <rect x="530" y="50" width="90" height="35" rx="6" fill="#FF004C">
-    <animate attributeName="x" values="530;515;530" dur="2s" repeatCount="indefinite"/>
-  </rect>
-
-  <rect x="500" y="65" width="50" height="10" fill="#FF004C">
-    <animate attributeName="x" values="500;485;500" dur="2s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Laser -->
-  <line x1="200" y1="130" x2="500" y2="70" stroke="#00F7FF" stroke-width="4">
-    <animate attributeName="opacity" values="1;0;1" dur="0.5s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- Explosion -->
-  <circle cx="500" cy="70" r="10" fill="#FFD700">
-    <animate attributeName="r" values="10;28;10" dur="1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- HUD Text -->
-  <text x="30" y="30" fill="#00F7FF" font-size="18" font-family="monospace">
-    AI DEFENSE ACTIVE
-  </text>
-
-  <text x="450" y="200" fill="#FF004C" font-size="18" font-family="monospace">
-    TARGET LOCKED
-  </text>
-
-</svg>
-
-<br/>
+<br/><br/>
 
 ```yaml
-STATUS:
-  AI Defense System: ACTIVE
-  Enemy Threat Level: HIGH
-  Neural Weapons: ONLINE
-  Battlefield Control: STABLE
+ARCADE_SYSTEM:
+  STATUS: ONLINE
+  MODE: CLASSIC
+  GHOST_AI: ACTIVE
+  PLAYER: READY
 ```
+
+<a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
+  <img src="https://img.shields.io/badge/PLAY_NOW-000000?style=for-the-badge&logo=arc&logoColor=FFD700"/>
+</a>
 
 </div>
 
