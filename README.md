@@ -1,62 +1,291 @@
-<!-- 🔥 PROFILE BANNER -->
+<!-- ===================================================== -->
+<!--                FUTURISTIC GITHUB README               -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Aditya%20Kumar%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F0FF,50:6C63FF,100:8A2BE2&text=Aditya%20Kumar%20Singh&fontSize=45&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20ML%20Researcher&descAlignY=58"/>
 </p>
 
 ---
 
-<!-- 👋 INTRO -->
+<h3 align="center">
+⚡ Building Intelligent Systems & Futuristic Digital Experiences ⚡
+</h3>
 
-<h1 align="center"><b>Hi 👋, I'm Aditya Kumar Singh</b></h1>
-
-<!-- ⚡ TYPING ANIMATION -->
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Scalable+Web+Applications;Turning+Data+into+Intelligent+Systems;Focused+on+Growth+%26+Real+Impact"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;3D+Web+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-<!-- 💡 ABOUT -->
+# 🧠 SYSTEM OVERVIEW
 
-<ul style="font-size:16px; line-height:1.8;">
-  <li><b>💻 Full Stack Developer</b> crafting scalable web applications using MERN & Java</li>
-  <li><b>🤖 AI/ML Enthusiast</b> turning data into intelligent solutions with Python</li>
-  <li><b>⚡ System Builder</b> bridging backend systems with smart AI models</li>
-  <li><b>📈 Growth Mindset</b> focused on consistency, learning, and real-world impact</li>
-</ul>
+```yaml
+Name: Aditya Kumar Singh
+Role: AI Engineer & Full Stack Developer
+
+Specialization:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Computer Vision
+  - 3D Web Experiences
+
+Currently Working On:
+  - AI Powered Applications
+  - Futuristic User Interfaces
+  - Real-time Detection Systems
+  - Intelligent Automation
+
+Mindset:
+  - Build
+  - Learn
+  - Improve
+  - Repeat
+```
 
 ---
 
-<!-- 🚀 QUICK BADGES -->
+# 🌐 CONNECT WITH ME
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devodrex&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Devodrex?label=Followers&style=social" />
+
+<a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Devodrex">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/addy60456">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adityakumarsi0107@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/addy60456) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityakumarsi0107@gmail.com) 
+# 🚀 ABOUT ME
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Devodrex&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Devodrex&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Devodrex&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💻 Full Stack Developer passionate about scalable applications and premium UI experiences.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devodrex&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+🤖 AI/ML Enthusiast building intelligent systems using modern machine learning frameworks.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+⚡ Focused on creating impactful real-world projects combining software engineering with artificial intelligence.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Devodrex&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+🎯 Constantly improving in:
+- Backend Engineering
+- AI Systems
+- Advanced Frontend Development
+- Computer Vision
+- System Design
 
 ---
-[![](https://komarev.com/ghpvc/?username=Devodrex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🛠 TECH STACK
+
+<div align="center">
+
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+
+---
+
+## ⚙️ Frontend & Backend
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+
+---
+
+## 🤖 AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
+![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+
+---
+
+## 🗄 Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+## 🤖 AI Chatbot Platform
+
+A context-aware AI conversational system capable of real-time responses with scalable backend architecture.
+
+### Features
+- Real-time messaging
+- Context retention
+- API integrations
+- Modern responsive UI
+
+---
+
+## 🚗 Pothole Detection System
+
+AI-powered road anomaly detection system using computer vision technologies.
+
+### Tech Used
+- YOLOv8
+- ByteTrack
+- OpenCV
+- Python
+
+### Capabilities
+- Real-time object tracking
+- Intelligent road analysis
+- Smart detection pipeline
+
+---
+
+## 🧠 Alzheimer's Prediction Model
+
+Machine learning healthcare research project focused on predictive disease analysis.
+
+### Highlights
+- SVM-based prediction model
+- Data preprocessing pipeline
+- Predictive analytics
+- Research presentation at DoSCI-2025
+
+---
+
+# 🎮 PLAYABLE GAME
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devodrex&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devodrex&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devodrex&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# ⚡ CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devodrex&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# ⚙️ LOCAL INSTALLATION
+
+## Clone Repository
+
+```bash
+git clone https://github.com/Devodrex/Portfolio.git
+```
+
+---
+
+## Navigate to Project
+
+```bash
+cd Portfolio
+```
+
+---
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+# 🌍 LIVE PORTFOLIO
+
+```bash
+https://portfolio-tau-three-0csuk1f6pf.vercel.app/
+```
+
+---
+
+# 📈 CURRENT GOALS
+
+- Advanced AI Applications
+- Scalable Backend Systems
+- 3D Interactive Web Experiences
+- Open Source Contributions
+- Deep Learning Research
+
+---
+
+# 💭 DEVELOPER QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devodrex&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F0FF,50:6C63FF,100:8A2BE2"/>
+</p>
