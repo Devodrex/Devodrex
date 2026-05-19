@@ -1,40 +1,24 @@
 <!-- ================================================ -->
-<!--                CLEAN FUTURISTIC README           -->
+<!--                FUTURISTIC GITHUB README          -->
 <!-- ================================================ -->
 
-<div align="center">
+<h1 align="center">
+  Hey 
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="32px" width="32px">
+  I'm Aditya Kumar Singh
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ffffff,50:e6e6e6,100:cccccc&text=ADITYA%20KUMAR%20SINGH&fontSize=42&fontColor=000000&animation=fadeIn"/>
+<h3 align="center">
+🚀 AI Engineer | Full-Stack Developer | ML Researcher
+</h3>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Researcher;Building+Futuristic+Systems"/>
-
-<br/><br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devodrex&label=Profile%20Views&color=000000&style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" />
 </p>
-
-<br/>
-
-<a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Devodrex">
-  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/addy60456">
-  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:adityakumarsi0107@gmail.com">
-  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</div>
 
 ---
 
@@ -57,75 +41,85 @@ Mission:
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-tau-three-0csuk1f6pf.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Devodrex">
+  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/addy60456">
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:adityakumarsi0107@gmail.com">
+  <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
 # 🛠 Tech Stack
 
 ## 💻 Programming Languages
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp"/>
+</p>
 
 ---
 
 ## 🌐 Frontend Development
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css"/>
+</p>
 
 ---
 
 ## ⚙️ Backend Development
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask"/>
+</p>
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## 🤖 AI / Machine Learning
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<p align="center">
 
 <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black"/>
 <img src="https://img.shields.io/badge/YOLOv8-white?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
 
-</div>
+</p>
 
 ---
 
 ## 🗄 Databases
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
 
 ---
 
 ## 🧰 Tools & Platforms
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+</p>
 
 ---
 
@@ -142,31 +136,25 @@ Mission:
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
 # ⚡ Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devodrex&theme=github-light&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devodrex&theme=github-light&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=flat&no-frame=true&margin-w=10"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devodrex&theme=flat&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
@@ -206,10 +194,6 @@ https://portfolio-tau-three-0csuk1f6pf.vercel.app/
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,100:cccccc"/>
-
-### Designed & Developed by Aditya Kumar Singh
-
-</div>
+<h3 align="center">
+Designed & Developed by Aditya Kumar Singh
+</h3>
